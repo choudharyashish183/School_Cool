@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 5000
 
 dotenv.config();
 
-app.use(express.json({ limit: '10mb' }))
+app.use(express.json({ limit: '20mb' }))
 app.use(cors())
 
 mongoose
