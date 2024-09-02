@@ -59,30 +59,30 @@ List the technologies, frameworks, and libraries used to build your application.
 
 ## Getting Started
 
-setup react project env in editor i preferably use VS code
+setup react project env in editor I preferably use VS code
 
 ## Installation
 
 1. Clone the repository:
    ```
-   
+   https://github.com/choudharyashish183/School_Cool
    ```
 
 2. Install frontend dependencies:
    ```
-   cd frontend
+   cd Frontend
    npm install
    ```
 
 3. Install backend dependencies:
    ```
-   cd ../backend
+   cd ../Backend
    npm install
    ```
 
 ## Configuration
 
-- Create a `.env` file in the `backend` directory and set the following environment variables:
+- Create a `.env` file in the `Backend` directory and set the following environment variables:
    ```
    PORT=3000
    MONGODB_URI= i have a private URI
@@ -95,7 +95,7 @@ Provide instructions on how to use your application. This should include how to 
 
 - Start the frontend development server:
    ```
-   cd frontend
+   cd Frontend
    npm start
    ```
 
